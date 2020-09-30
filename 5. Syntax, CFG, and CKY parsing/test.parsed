@@ -1,0 +1,48 @@
+NONE
+(TOP (S (VP (VB Show) (NP (PRP me)) (NP (NP (PDT all) (DT the) (NNS flights)) (SBAR (WHNP (WDT that)) (S (VP (VBP go) (PP (IN from) (NP (NNP Baltimore))) (PP (TO to) (NP (NNP Seattle))))))))))
+NONE
+(TOP (S (NP (DT The) (NN flight)) (VP (MD should) (VP (VBP arrive) (PP (IN around) (NP (CD ten) (CC or) (NP (CD eleven) (RB a.m.))))))))
+(TOP (S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB travel) (PP (TO to) (NP (NNP Westchester))))))))))
+(TOP (SBARQ (WHNP (WDT What)) (SQ (VBZ is) (NP (NP (DT the) (NN aircraft) (NN type)) (PP (IN for) (NP (DT the) (NNP American) (NN flight)))))))
+NONE
+NONE
+NONE
+(TOP (S (NP (PRP I)) (VP (VBP want) (NP (NP (DT a) (NN flight)) (PP (IN from) (NP (NNP Ontario))) (PP (TO to) (NP (NNP Chicago)))))))
+(TOP (FRAG (X (WP What) (IN about)) (NP (NNP Monday) (NN afternoon))))
+(TOP (S (VP (VB Show) (NP (PRP me)) (NP (NP (DT the) (NN dinner) (NNS flights)) (PP (IN from) (NP (NNP Baltimore))) (PP (TO to) (NP (NNP Oakland)))))))
+NONE
+(TOP (SBARQ (WHNP (WDT What) (NNS flights)) (SQ (VBP go) (PP (IN from) (NP (NNP Dallas))) (PP (TO to) (NP (NNP Tampa))))))
+NONE
+(TOP (S (VP (VBZ Is) (NP (NP (NNP United) (NNP Airlines)) (NN flight) (CD four) (CD thirty)) (NP (DT a) (JJ nonstop) (NN flight)))))
+(TOP (S (VP (VBP Do) (NP (DT any) (PP (IN of) (NP (DT these) (NNS flights))) (VP (VBP have) (NP (NNS stops)))))))
+(TOP (SBARQ (WHNP (WDT What) (NNS flights)) (SQ (VBP leave) (NP (NNP Phoenix)) (PP (IN on) (NP (NNP Tuesday))) (PP (IN after) (NP (CD nine) (RB p.m.))))))
+NONE
+(TOP (SBARQ (WHNP (WDT What) (NNS flights)) (SQ (VBP are) (PP (IN from) (NP (NNP Memphis))) (PP (TO to) (NP (NNP Las) (NNP Vegas))))))
+NONE
+NONE
+NONE
+NONE
+(TOP (S (VP (VB Show) (NP (DT all) (NNS fares)))))
+NONE
+(TOP (S (PP (IN From) (NP (NNP Washington))) (NP (NP (NNP D) (NNP C)) (PP (TO to) (NP (NNP Philadelphia)))) (VP (VBG departing) (PP (IN in) (NP (DT the) (NN afternoon))))))
+(TOP (FRAG (WHNP (WHNP (WDT What) (NNS flights)) (PP (IN from) (NP (NNP Atlanta))) (PP (TO to) (NP (NNP Toronto))))))
+(TOP (FRAG (WHNP (WHNP (WDT What) (NNS flights)) (PP (IN from) (NP (NNP Dallas))) (PP (TO to) (NP (NNP Houston))) (PP (IN on) (NP (NNP Sunday))))))
+(TOP (FRAG (WHNP (WHNP (WDT What) (NNS flights)) (PP (IN from) (NP (NNP Phoenix))) (PP (TO to) (NP (NNP Las) (NNP Vegas))) (PP (IN on) (NP (NNP Saturday))))))
+NONE
+(TOP (FRAG (WHNP (WHNP (WDT What) (NNS flights)) (PP (IN from) (NP (NNP Tampa))) (PP (TO to) (NP (NNP Cincinnati))))))
+(TOP (FRAG (NP (NN Price) (PP (IN of) (NP (JJ round) (NN trip) (NN flight))) (PP (IN from) (NP (NNP Cleveland))) (PP (TO to) (NP (NNP Kansas) (NNP City))))))
+NONE
+(TOP (FRAG (NP (JJS Cheapest) (NN flight)) (PP (IN from) (NP (NNP Indianapolis))) (PP (TO to) (NP (NNP Memphis)))))
+NONE
+NONE
+NONE
+(TOP (FRAG (NP (NP (NNS Flights)) (PP (IN between) (NP (NNP Tampa))) (CC and) (NP (NNP Saint) (NNP Louis)))))
+(TOP (FRAG (NP (NN Return) (NN flight))))
+NONE
+NONE
+(TOP (FRAG (NP (NNS Flights)) (PP (IN from) (NP (NNP Newark))) (PP (TO to) (NP (NNP Cleveland)))))
+NONE
+(TOP (S (VP (VB Show) (NP (DT the) (NNS fares)))))
+(TOP (S (VP (VB Show) (NP (PRP me)) (NP (NP (DT all) (NNS flights)) (PP (IN from) (NP (NNP Philadelphia))) (PP (TO to) (NP (NP (NNP San) (NNP Francisco)) (PP (IN with) (NP (CD one) (NN stop))) (PP (IN in) (NP (NNP Dallas)))))))))
+(TOP (S (VP (VB Show) (NP (PRP me)) (NP (NP (DT the) (NNS meals)) (PP (IN on) (NP (NNP Southwest) (NNP Airlines)))))))
+NONE

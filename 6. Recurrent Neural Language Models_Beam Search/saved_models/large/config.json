@@ -1,0 +1,14 @@
+{
+  "batch_size": 64,
+  "rnn_type": "LSTM",
+  "temperature": 1,
+  "dropout": 0.2,
+  "emb_size": 31,
+  "beam_size": 40,
+  "hidden_size": 200,
+  "layer_num": 1,
+  "static": false,
+  "one_hot": true,
+  "weight_tie": false,
+  "early_stop": 4
+}

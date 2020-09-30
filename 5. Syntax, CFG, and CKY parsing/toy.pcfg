@@ -1,0 +1,23 @@
+TOP
+DT -> the # 0.5000
+DT -> a # 0.5000
+NP -> DT NN # 0.5000
+NP -> PRP # 0.2500
+NP -> NN # 0.2500
+NN -> boy # 0.3333
+NN -> girl # 0.3333
+NN -> today # 0.3333
+S -> NP VP # 0.6667
+S -> VP # 0.3333
+VB -> saw # 0.3333
+VB -> need # 0.3333
+VB -> arrive # 0.3333
+VP -> VB NP # 0.2500
+VP -> VB S # 0.2500
+VP -> TO VP # 0.2500
+VP -> VB ADVP NP # 0.2500
+TOP -> S # 1.0000
+PRP -> I # 1.0000
+TO -> to # 1.0000
+RB -> early # 1.0000
+ADVP -> RB # 1.0000
