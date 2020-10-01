@@ -14,6 +14,7 @@ Following [Kevin Knight](https://kevincrawfordknight.github.io/)'s tradition, un
 - For finite-state toolkit, USC ISI's [CARMEL](https://github.com/isi-nlp/carmel) is used. 
 
 &nbsp;
+## Contents
 ### [0. n-gram Language Models and Entropy](https://github.com/csdankim/NLP_KATAKANA_ENG/tree/master/0.%20n-gram%20language%20model)
 ### [1. FSAs & FSTs recovering spaces and vowels](https://github.com/csdankim/NLP_KATAKANA_ENG/tree/master/1.%20FSAs_FSTs_recovering%20spaces%20and%20vowels)
 ### [2. English pronunciation, part-of-speech tagging as composition, Katakana-to-English (back)transliteration](https://github.com/csdankim/NLP_KATAKANA_ENG/tree/master/2.%20English%20pronunciation%2C%20part-of-speech%20tagging%20as%20composition%2C%20Katakana-to-English%20(back)transliteration)

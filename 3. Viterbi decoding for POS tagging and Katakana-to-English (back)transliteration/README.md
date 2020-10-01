@@ -9,4 +9,4 @@
 - [decode.py](https://github.com/csdankim/NLP_KATAKANA_ENG/blob/master/3.%20Viterbi%20decoding%20for%20POS%20tagging%20and%20Katakana-to-English%20(back)transliteration/decode.py)
 - [kbest.py](https://github.com/csdankim/NLP_KATAKANA_ENG/blob/master/3.%20Viterbi%20decoding%20for%20POS%20tagging%20and%20Katakana-to-English%20(back)transliteration/kbest.py)
 - [tagging.py](https://github.com/csdankim/NLP_KATAKANA_ENG/blob/master/3.%20Viterbi%20decoding%20for%20POS%20tagging%20and%20Katakana-to-English%20(back)transliteration/tagging.py)
-- [decode_word.py]() for 4. Extra Credit: Decode Katakana to English WORDS
+- [decode_word.py](https://github.com/csdankim/NLP_KATAKANA_ENG/blob/master/3.%20Viterbi%20decoding%20for%20POS%20tagging%20and%20Katakana-to-English%20(back)transliteration/decode_word.py) for 4. Extra Credit: Decode Katakana to English WORDS
