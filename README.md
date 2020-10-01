@@ -2,7 +2,7 @@
 ## Project: Cipher / Decipher Katakana and English
 &nbsp;
 
-### Goal
+## Goal
 Following [Kevin Knight](https://kevincrawfordknight.github.io/)'s tradition, understand and implement followings:
 - finite-state machines (weighted FSAs and FSTs)
 - syntactic structures (weighted context-free grammars and parsing algorithms)
